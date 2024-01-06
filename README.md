@@ -1,2 +1,2 @@
 # the snake game
-This is my version of the snake game, ther e isn't much to read, just plsy!
+This is my version of the snake game, there isn't much to read, just play!
